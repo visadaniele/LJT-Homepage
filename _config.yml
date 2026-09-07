@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://visadaniele.github.io
-baseurl                  : ""
-repository               : "visadaniele/academicpages.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "visadaniele/LJT-Homepage"
 
 # Site Author
 author:
